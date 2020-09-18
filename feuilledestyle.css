@@ -3,7 +3,7 @@ margin: 10;
 padding: 10;
 }
 body {
-    background-color: ;
+    background-color: #FFF9F8;
     font-family: 'Courier New', Courier, monospace;
     font-size: 100%;
 }
@@ -15,4 +15,23 @@ h1 {
 h2 {
     font-size: 100%;
     color: gold;
+}
+aside {
+left: auto;
+font-size: small;
+text-align: left;
+}
+div :aside;
+main {
+
+    right: auto;
+    text-align: right;
+}
+article {
+    right: auto;
+    text-align: right;
+}
+section {
+    right: auto;
+    text-align: right;
 }
