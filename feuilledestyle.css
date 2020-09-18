@@ -16,14 +16,19 @@ h2 {
     font-size: 100%;
     color: gold;
 }
-aside {
+#Naame {
 left: auto;
 font-size: small;
 text-align: left;
 }
-div :aside;
+#Name {
+    display: flex;
+    flex-direction: top;
+    vertical-align: text-top;
+    text-align: top;
+    
+}
 main {
-
     right: auto;
     text-align: right;
 }
